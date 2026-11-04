@@ -1,4 +1,4 @@
-# Sports Betting QA Assessment
+# Betting QA Tests
 
 ## Overview
 
